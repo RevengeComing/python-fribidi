@@ -1,0 +1,7 @@
+env/
+venv/
+
+dist/
+python_fribidi.egg-info/
+
+*.pyc
